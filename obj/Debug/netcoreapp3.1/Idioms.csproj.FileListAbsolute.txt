@@ -1,0 +1,10 @@
+/Users/danielbennett/workspace/csharp/exercises/Idioms/bin/Debug/netcoreapp3.1/Idioms.deps.json
+/Users/danielbennett/workspace/csharp/exercises/Idioms/bin/Debug/netcoreapp3.1/Idioms.runtimeconfig.json
+/Users/danielbennett/workspace/csharp/exercises/Idioms/bin/Debug/netcoreapp3.1/Idioms.runtimeconfig.dev.json
+/Users/danielbennett/workspace/csharp/exercises/Idioms/bin/Debug/netcoreapp3.1/Idioms.dll
+/Users/danielbennett/workspace/csharp/exercises/Idioms/bin/Debug/netcoreapp3.1/Idioms.pdb
+/Users/danielbennett/workspace/csharp/exercises/Idioms/obj/Debug/netcoreapp3.1/Idioms.csprojAssemblyReference.cache
+/Users/danielbennett/workspace/csharp/exercises/Idioms/obj/Debug/netcoreapp3.1/Idioms.AssemblyInfoInputs.cache
+/Users/danielbennett/workspace/csharp/exercises/Idioms/obj/Debug/netcoreapp3.1/Idioms.AssemblyInfo.cs
+/Users/danielbennett/workspace/csharp/exercises/Idioms/obj/Debug/netcoreapp3.1/Idioms.dll
+/Users/danielbennett/workspace/csharp/exercises/Idioms/obj/Debug/netcoreapp3.1/Idioms.pdb
